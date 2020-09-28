@@ -4,7 +4,7 @@
  <font size="1"> (Click on the above image for more school's details) </font> 
 
 ## Via-Verde
-![](https://user-images.githubusercontent.com/44362304/94420414-08ca9a00-017c-11eb-826b-87846b197d7f.png)
+![ViaVerde Logo](https://user-images.githubusercontent.com/44362304/94420414-08ca9a00-017c-11eb-826b-87846b197d7f.png)
 
 ### University project developed in C language for unit course "Programming Fundamentals"
 
