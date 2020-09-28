@@ -11,10 +11,10 @@
 Simulation of a basic information system to manage the operation of Via Verde company at the level of its tolls.
 
 ## Project Screenshots
-![1](https://user-images.githubusercontent.com/44362304/94462698-d2107600-01b3-11eb-9e67-bd6ebf0d8689.png)
-![2](https://user-images.githubusercontent.com/44362304/94462700-d2107600-01b3-11eb-8daa-6e25d6e8d95d.png)
-![3](https://user-images.githubusercontent.com/44362304/94462703-d2a90c80-01b3-11eb-911b-07da111e5de2.png)
-![4](https://user-images.githubusercontent.com/44362304/94462705-d341a300-01b3-11eb-99cd-ca8582948199.png)
-![5](https://user-images.githubusercontent.com/44362304/94462723-d9d01a80-01b3-11eb-9f44-e41c31a0c050.png)
+![Main Menu](https://user-images.githubusercontent.com/44362304/94462698-d2107600-01b3-11eb-9e67-bd6ebf0d8689.png)
+![Customers Management](https://user-images.githubusercontent.com/44362304/94462700-d2107600-01b3-11eb-8daa-6e25d6e8d95d.png)
+![Trip Management](https://user-images.githubusercontent.com/44362304/94462703-d2a90c80-01b3-11eb-911b-07da111e5de2.png)
+![Invoice Generation](https://user-images.githubusercontent.com/44362304/94462705-d341a300-01b3-11eb-99cd-ca8582948199.png)
+![Extra Features](https://user-images.githubusercontent.com/44362304/94462723-d9d01a80-01b3-11eb-9f44-e41c31a0c050.png)
 
 
