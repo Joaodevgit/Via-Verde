@@ -3,9 +3,9 @@
 
  <font size="1"> (Click on the above image for more school's details) </font> 
 
-## Via-Verde
+## Via Verde
 ![ViaVerde Logo](https://user-images.githubusercontent.com/44362304/94420414-08ca9a00-017c-11eb-826b-87846b197d7f.png)
 
-### University project developed in C language for unit course "Programming Fundamentals"
+### School project developed in C language for unit course "Programming Fundamentals"
 
 Simulation of a basic information system to manage the operation of Via Verde company at the level of its tolls.
