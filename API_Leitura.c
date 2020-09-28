@@ -21,23 +21,23 @@
      * @brief Mensagem a mostrar ao utilizador caso o número inteiro introduzido 
      *  nao respeite o limite inicial e final definido.
      */
-    #define MSG_LEITURA_INT_GAMA_INVALIDA "O numero que introduziu e invalido. Introduza um valor entre %ld e %ld.\n"
+    #define MSG_LEITURA_INT_GAMA_INVALIDA "The number you entered is invalid. Enter a value between %ld and %ld.\n"
     /**
      * @brief Mensagem a informar o utilizador caso o número real introduzido 
      *  nao respeite o limite inicial e final definido.
      */
-    #define MSG_LEITURA_REAL_GAMA_INVALIDA "\nO numero que introduziu e invalido. Introduza um valor entre %.3lf e %.3lf.\n"
+    #define MSG_LEITURA_REAL_GAMA_INVALIDA "\nThe number you entered is invalid. Enter a value between %.3lf and %.3lf.\n"
     /**
      * @brief Mensagem a mostrar ao utilizador caso o número (real ou inteiro) 
      *  introduzido seja inválido.
      */
-    #define MSG_LEITURA_NUMERO_INVALIDO "\nO valor que introduziu nao e um numero valido.\n"
+    #define MSG_LEITURA_NUMERO_INVALIDO "\nThe value you entered is not a valid number.\n"
 
     /**
      * @brief Mensagem a mostrar ao utilizador caso o número (real ou inteiro) 
      *  introduzido seja inválido.
      */
-    #define MSG_LEITURA_BOOLEANO_INVALIDO "\nO valor que introduziu nao e um numero valido.\n"
+    #define MSG_LEITURA_BOOLEANO_INVALIDO "\nThe value you entered is not a valid number.\n"
 
     /**
      * @brief Número de argumentos esperados na leitura de números (inteiro ou real)

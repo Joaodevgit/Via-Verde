@@ -1,8 +1,8 @@
 /**
  * @file main.c
- * @author Grupo 22-30 João Pereira , Bruno Teixeira, Rui Vieira, Carlos Ribeiro.
- * @brief Ficheiro principal onde irão ser chamados todos as funcionalidades do projeto
- * @date 27 de Novembro de 2018, 22:24
+ * @author João Pereira
+ * @brief Main file where all the project's features will be called
+ * @date 27/11/2018 22:24
  * 
  */
 
@@ -10,9 +10,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "Clientes.h"
-#include "Viagens.h"
-#include "Estruturas.h"
+#include "Customers.h"
+#include "Trips.h"
+#include "Structures.h"
 #include "API_Leitura.h"
 
 
@@ -24,11 +24,11 @@ int main(int argc, char** argv) {
     carrega_lancos();
 
 
-    Cliente *vetor = NULL; //Criar vetor
+    Cliente *vetor = NULL; //Creates the array
     
     printf(" _________________________________________________\n");
     printf("|                                                 |\n");
-    printf("|             Persistência de dados               |\n");
+    printf("|                 Data Persistence                |\n");
     printf("|_________________________________________________|\n");
     printf("\n");
     
