@@ -1,5 +1,5 @@
 /**
- * @file Viagens.c
+ * @file Trips.c
  * @author João Pereira
  * @brief Trips Management
  * @date 27/11/2018

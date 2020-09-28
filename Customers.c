@@ -1,5 +1,5 @@
 /**
- * @file Clientes.c
+ * @file Customers.c
  * @author João Pereira
  * @brief Customers Management
  * @date 27/11/2018

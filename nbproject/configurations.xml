@@ -6,9 +6,9 @@
                    projectFiles="true">
       <itemPath>API_Leitura.h</itemPath>
       <itemPath>API_Utils.h</itemPath>
-      <itemPath>Clientes.h</itemPath>
-      <itemPath>Estruturas.h</itemPath>
-      <itemPath>Viagens.h</itemPath>
+      <itemPath>Customers.h</itemPath>
+      <itemPath>Structures.h</itemPath>
+      <itemPath>Trips.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -19,8 +19,8 @@
                    projectFiles="true">
       <itemPath>API_Leitura.c</itemPath>
       <itemPath>API_Utils.c</itemPath>
-      <itemPath>Clientes.c</itemPath>
-      <itemPath>Viagens.c</itemPath>
+      <itemPath>Customers.c</itemPath>
+      <itemPath>Trips.c</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -53,15 +53,15 @@
       </item>
       <item path="API_Utils.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Clientes.c" ex="false" tool="0" flavor2="0">
+      <item path="Customers.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="Clientes.h" ex="false" tool="3" flavor2="0">
+      <item path="Customers.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Estruturas.h" ex="false" tool="3" flavor2="0">
+      <item path="Structures.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Viagens.c" ex="false" tool="0" flavor2="0">
+      <item path="Trips.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="Viagens.h" ex="false" tool="3" flavor2="0">
+      <item path="Trips.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -94,15 +94,15 @@
       </item>
       <item path="API_Utils.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Clientes.c" ex="false" tool="0" flavor2="0">
+      <item path="Customers.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="Clientes.h" ex="false" tool="3" flavor2="0">
+      <item path="Customers.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Estruturas.h" ex="false" tool="3" flavor2="0">
+      <item path="Structures.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Viagens.c" ex="false" tool="0" flavor2="0">
+      <item path="Trips.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="Viagens.h" ex="false" tool="3" flavor2="0">
+      <item path="Trips.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

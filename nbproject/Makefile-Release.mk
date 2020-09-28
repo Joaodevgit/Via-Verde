@@ -37,8 +37,8 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 OBJECTFILES= \
 	${OBJECTDIR}/API_Leitura.o \
 	${OBJECTDIR}/API_Utils.o \
-	${OBJECTDIR}/Clientes.o \
-	${OBJECTDIR}/Viagens.o \
+	${OBJECTDIR}/Customers.o \
+	${OBJECTDIR}/Trips.o \
 	${OBJECTDIR}/main.o
 
 
@@ -76,15 +76,15 @@ ${OBJECTDIR}/API_Utils.o: API_Utils.c
 	${RM} "$@.d"
 	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/API_Utils.o API_Utils.c
 
-${OBJECTDIR}/Clientes.o: Clientes.c
+${OBJECTDIR}/Customers.o: Customers.c
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Clientes.o Clientes.c
+	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Customers.o Customers.c
 
-${OBJECTDIR}/Viagens.o: Viagens.c
+${OBJECTDIR}/Trips.o: Trips.c
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Viagens.o Viagens.c
+	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Trips.o Trips.c
 
 ${OBJECTDIR}/main.o: main.c
 	${MKDIR} -p ${OBJECTDIR}
