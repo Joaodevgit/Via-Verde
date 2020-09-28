@@ -1,7 +1,7 @@
-# Polytechnic of Porto, School of Management and Technology 
+## Polytechnic of Porto, School of Management and Technology 
 <a href="https://www.estg.ipp.pt/"><img src="https://user-images.githubusercontent.com/44362304/94424125-9f4d8a00-0181-11eb-84cb-174d8dbde5ec.png" title="ESTG"></a>
 
- <font size="1"> (Click on the above image for more school's details) </font> 
+ (Click on the above image for more school's details)
 
 ## Via Verde
 ![ViaVerde Logo](https://user-images.githubusercontent.com/44362304/94420414-08ca9a00-017c-11eb-826b-87846b197d7f.png)
@@ -9,3 +9,12 @@
 ### School project developed in C language for unit course "Programming Fundamentals"
 
 Simulation of a basic information system to manage the operation of Via Verde company at the level of its tolls.
+
+## Project Screenshots
+![1](https://user-images.githubusercontent.com/44362304/94462698-d2107600-01b3-11eb-9e67-bd6ebf0d8689.png)
+![2](https://user-images.githubusercontent.com/44362304/94462700-d2107600-01b3-11eb-8daa-6e25d6e8d95d.png)
+![3](https://user-images.githubusercontent.com/44362304/94462703-d2a90c80-01b3-11eb-911b-07da111e5de2.png)
+![4](https://user-images.githubusercontent.com/44362304/94462705-d341a300-01b3-11eb-99cd-ca8582948199.png)
+![5](https://user-images.githubusercontent.com/44362304/94462723-d9d01a80-01b3-11eb-9f44-e41c31a0c050.png)
+
+
