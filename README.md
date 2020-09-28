@@ -20,8 +20,8 @@ Some of the project screenshots
 ![Extra Features](https://user-images.githubusercontent.com/44362304/94462723-d9d01a80-01b3-11eb-9f44-e41c31a0c050.png)
 
 ## Documentation
-To access documentation you need to download to a zip this project and then go to Documentation/index.html
-[Documentation File](https://github.com/Joaodevgit/Via-Verde/tree/master/documentation)
+To access documentation you need to download to a zip this project and then go to documentation/index.html
+<p><a href="https://github.com/Joaodevgit/Via-Verde/tree/master/documentation"> Documentation File</a></p>
 
 ## License
 
