@@ -1,17 +1,17 @@
 /**
- * @file Funcoes.h
- * @author Grupo 22-30João Pereira , Bruno Teixeira, Rui Vieira, Carlos Ribeiro.
- * @date 27 7de Novembro de 2018
- * @brief Gestão dos clientes
+ * @file Customers.h
+ * @author João Pereira
+ * @date 27/11/2018
+ * @brief Customers Management
  * 
- * Local onde são chamadas todas as funcionalidades relativas à gestão dos clientes
+ * Header where all the functions related to customers management are called
  */
 
 
 #include "Structures.h"
 
-#ifndef CLIENTES_H
-#define CLIENTES_H
+#ifndef CUSTOMERS_H
+#define CUSTOMERS_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -64,5 +64,5 @@ extern "C" {
 }
 #endif
 
-#endif /* CLIENTES_H */
+#endif /* CUSTOMERS_H */
 

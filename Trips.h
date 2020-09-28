@@ -1,17 +1,17 @@
 /**
- * @file Viagens.h
- * @author Grupo 22-30 João Pereira , Bruno Teixeira, Rui Vieira, Carlos Ribeiro.
- * @date 27 de Novembro de 2018
- * @brief Gestão das viagens
+ * @file Trips.h
+ * @author João Pereira
+ * @date 27/11/2018
+ * @brief Trips Management
  * 
- * Local onde são chamadas todas as funcionalidades relativas à gestão dos clientes
+ * Header where all the functions related to trips management are called
  */
 
 #include "Structures.h"
 #include <stdbool.h>
 
-#ifndef VIAGENS_H
-#define VIAGENS_H
+#ifndef TRIPS_H
+#define TRIPS_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -50,7 +50,7 @@ extern "C" {
     void menu_gestao_pesquisa_viagens(Cliente *, int);
     bool preencheMatrizpontos(Lanco *, char *, bool);
     bool preencheMatriz(Lanco *, char *, bool);
-    void imprime_matrizdistancias_precos_A1(Lanco matriz[NUM_PORTAGENS][NUM_PORTAGENS]); // pode se fazer matriz [][]?
+    void imprime_matrizdistancias_precos_A1(Lanco matriz[NUM_PORTAGENS][NUM_PORTAGENS]);
     void carrega_lancos();
     void menu_consulta_lancos();
     void adicionar_viagem(Cliente *, int, int);
@@ -68,5 +68,5 @@ extern "C" {
 }
 #endif
 
-#endif /* VIAGENS_H */
+#endif /* TRIPS_H */
 

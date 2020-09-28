@@ -1,14 +1,14 @@
 /*
- * @file Estruturas.h
- * @author Grupo 22-30 João Pereira , Bruno Teixeira, Rui Vieira, Carlos Ribeiro.
- * @date 27 de Novembro de 2018
- * @brief Estruturas
+ * @file Structures.h
+ * @author João Pereira
+ * @date 27/11/2018
+ * @brief Structures
  * 
- * Local onde vão ser criadas as estruturas que irei precisar para modelar os dados ao longo do projeto
+ * Header where the structures that will be needed to model the data throughout the project development
  * 
  */
-#ifndef ESTRUTURAS_H
-#define ESTRUTURAS_H
+#ifndef STRUCTURES_H
+#define STRUCTURES_H
 
 #define NUM_PORTAGENS 6
 #define MAX_VIAGENS 100
@@ -21,7 +21,7 @@
 extern "C" {
 #endif
  
-    //Estrutura associada ao conceito de lanço
+    //Structure associated to tolls link concept
 
     typedef struct {
         float preco;
@@ -29,7 +29,7 @@ extern "C" {
         short pontos;
     } Lanco;
 
-    //Estrutura associada ao conceito de pórtico
+    //Structure associated to toll concept
 
     typedef struct {
         short porticoEntrada;
@@ -37,7 +37,7 @@ extern "C" {
         float custo;
     } Portico;
 
-    //Estrutura associada à data
+    //Structure associated to date
 
     typedef struct {
         short ano;
@@ -45,14 +45,14 @@ extern "C" {
         short dia;
     } Data;
 
-    // Estrutura associada a data
+    //Structure associated to date (time)
 
     typedef struct {
         short hora;
         short minutos;
     } Hora;
 
-    //Estrutura associada ao conceito de veículo
+    //Structure associated to  concept
 
     typedef struct {
         char matricula[MAX_MAT];
@@ -62,7 +62,7 @@ extern "C" {
         int velocidade;
     } Veiculo;
 
-    //Estrutura associada ao conceito de viagem
+    //Structure associated to trip concept
 
     typedef struct {
         Portico info_lanco;
@@ -70,7 +70,7 @@ extern "C" {
         Hora horaSaida;
     } Viagem;
 
-    //Estrutura associada ao conceito de cliente
+    //Structure associated to customer concept
 
     typedef struct {
         int id;
@@ -90,5 +90,5 @@ extern "C" {
 }
 #endif
 
-#endif /* ESTRUTURAS_H */
+#endif /* STRUCTURES_H */
 
