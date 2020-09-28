@@ -9,6 +9,7 @@
 ### School project developed in C language for unit course "Programming Fundamentals"
 
 Simulation of a basic information system to manage the operation of Via Verde company at the level of its tolls.
+(**If you don't know anything about Via Verde company and you want to get information about it please visit [their website](https://www.viaverde.pt/particulares/quem-somos)**)
 
 ## Project Screenshots
 Some of the project screenshots
@@ -20,7 +21,8 @@ Some of the project screenshots
 ![Extra Features](https://user-images.githubusercontent.com/44362304/94462723-d9d01a80-01b3-11eb-9f44-e41c31a0c050.png)
 
 ## Documentation
-
+To access project documentation you need to download to a zip format this project and then go to directory documentation/index.html
+<p><a href="https://github.com/Joaodevgit/Via-Verde/tree/master/documentation"> Documentation File</a></p>
 
 ## License
 
