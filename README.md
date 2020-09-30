@@ -22,7 +22,7 @@ Some of the project screenshots
 
 ## Documentation
 To access project documentation you need to download to a zip format this project and then go to directory documentation/index.html
-<p><a href="https://github.com/Joaodevgit/Via-Verde/tree/master/documentation"> Documentation File</a></p>
+<p><a href="https://github.com/Joaodevgit/Via-Verde/tree/master/documentation"> Project Documentation Directory </a></p>
 
 ## License
 
